@@ -17,6 +17,8 @@
   </text>
 </svg>
 
+
+
 ## 💫 About Me:
 
 I'm a web developer with a strong passion for backend and system development.<br><br>Currently, I work at Auxo while pursuing my web development studies at Business Academy Aarhus, <br>constantly expanding my skills and expertise in building scalable and efficient digital solutions.
