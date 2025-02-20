@@ -1,4 +1,21 @@
-# 👋 Hi guys! My name is Mads
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="circlePath" d="M 150,150 m -100,0 a 100,100 0 1,1 200,0 a 100,100 0 1,1 -200,0"/>
+    <linearGradient id="rainbow" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="red"/>
+      <stop offset="20%" stop-color="orange"/>
+      <stop offset="40%" stop-color="yellow"/>
+      <stop offset="60%" stop-color="green"/>
+      <stop offset="80%" stop-color="blue"/>
+      <stop offset="100%" stop-color="purple"/>
+    </linearGradient>
+  </defs>
+  <text fill="url(#rainbow)">
+    <textPath href="#circlePath" startOffset="50%" text-anchor="middle" font-size="20" font-weight="bold">
+      👋 Hi guys! I'm Mads
+    </textPath>
+  </text>
+</svg>
 
 ## 💫 About Me:
 
