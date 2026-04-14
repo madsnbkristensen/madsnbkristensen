@@ -1,9 +1,6 @@
-# 👋 Hi guys! I'm Mads
+# 👋 Hi, I'm Mads
 
-
-## 💫 About Me:
-
-I'm a fullstack developer with a strong passion for backend and system development.<br><br>Currently, I work at Auxo ( aka. Aveo Web & Marketing ) while pursuing my web development studies at Business Academy Aarhus, <br>constantly expanding my skills and expertise in building scalable and efficient digital solutions.
+I'm a fullstack developer with a passion for backend and system development.<br><br>Currently, I work as a software developer at Jyske Bank, building domain-specific solutions in close collaboration with business stakeholders, with a strong focus on integrations and operational robustness.
 
 ## 🌐 Socials:
 
